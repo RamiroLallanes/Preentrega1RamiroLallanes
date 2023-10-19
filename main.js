@@ -3,3 +3,7 @@ function calcularCostos(valorBase, costEnvio = 1200, iva = 0.20) {
     alert("La suma de iva (20 % ) + el envio= 1200 pesos es: " + costos)
     return costos
 }
+
+
+alert("Bienvenido ")
+let confirmacion = true
